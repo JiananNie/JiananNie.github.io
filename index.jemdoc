@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Jianan Nie 
+
+~~~
+{}{img_left}{bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+Ph.D. Candidate\n
+Department of Computer Science\n
+Virginia Tech\n
+Blacksburg, VA 24061\n
+\n
+E-mail: jianan@vt.edu
+~~~
+
+== About me
+I am a Ph.D. candidate in the Computer Science Department at Virginia Tech, supervised by Dr. Peng Gao. I got the M.S. degree in Chemistry from King Abdullah University of Science and Technology (KAUST) in 2022. I received the B.S. degree in Chemical Science from Southern University of Science and Technology (SUSTech).
+My research interest lies in AI security and privacy, machine Learning/deep Learning, and data mining.
+
+
+== Research
+My research interests include 
+- Machine Learning/Deep Learning
+- Security and Privacy
+- Data Mining
+- Artificial Intelligence
+
+== Education
+- Ph.D. in Computer Science, Virginia Tech, 2023 - (Supervisor, Dr. Peng Gao)
+- M.S. in Chemistry from King Abdullah University of Science and Technology, 2021-2023
+- B.S. in Chemical Science from Southern University of Science and Technology, 2018-2022
+
+
