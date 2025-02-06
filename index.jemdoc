@@ -1,8 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Jianan Nie 
+==Welcome to Jianan Nie's Homepage 
 
 ~~~
-{}{img_left}{bio.jpg}{alt text}{224}{289}{https://github.com/JiananNie/JiananNie.github.io/blob/main/bio.jpg}
+{}{img_left}{bio.jpg}{alt text}{177}{230}{https://github.com/JiananNie/JiananNie.github.io/blob/main/bio.jpg}
+Jianan Nie\n
 Ph.D. Student\n
 Department of Computer Science\n
 Virginia Tech\n
@@ -13,8 +14,28 @@ E-mail: jianan@vt.edu
 
 == About me
 I am a Ph.D. student in the Department of Computer Science at Virginia Tech, advised by Dr. Peng Gao.\n
-\n
-My research interest lies in AI for Science, specifically in the field of Chemistry and Material, which includes molecule/material design, structure prediction, property prediction, autonomous discovery and generation.
+I got the M.S. degree in Chemistry from King Abdullah University of Science and Technology (KAUST) in 2022. I received the B.S. degree in Chemical Science from Southern University of Science and Technology (SUSTech).
+
+== Research
+My research interest lies in machine learning and AI for science.\n
+I develop AI/ML models informed by fundamental scientific principles to accelerate the design and discovery of novel materials and small molecules. 
+My work focuses on integrating physical laws such as symmetry, and theories, into AI architectures to enhance model interpretability, efficiency, and predictive accuracy.
+By bridging AI and the science, I aim to advance foundational AI methodologies that drive innovation in materials and molecules design and beyond.
+
+== Recent Publications
+-  [https://arxiv.org/pdf/2502.02748 ReGNet: Reciprocal Space-Aware Long-Range Modeling and
+Multi-Property Prediction for Crystals] \n
+*Jianan Nie*, Peiyao Xiao, Kaiyi Ji, Peng Gao.  Submitted.
+
+== Internship Experience
+- Research Scientist at Microsoft Research AI for Science
+
+== Professional Services
+- Reviewer, AI4Mat-NeurIPS, 2024
+
+== Teaching Experience
+- Teaching Assistant, Virginia Tech, CS-4824 Machine Learning, 2024
+- Teaching Assistant, Virginia Tech, CS-4804 Introduction to Artificial Intelligence, 2023
 
 == Honors and Awards
 - IEEE S&P Student Travel Grant (top tier conference), 2023
@@ -27,18 +48,3 @@ My research interest lies in AI for Science, specifically in the field of Chemis
 - Second Prize of Guangdong University Student Art Exhibition, 2021
 - Advanced Individual Award of SUSTech Volunteer Association, 2020
 
-== Industry Experience
-- Intern at Microsoft Research Asia AI for Science in Beijing, 2024\/05 - 2024\/08
-
-== Professional Services
-- Reviewer, AI4Mat-NeurIPS, 2024
-- External Reviewer, ACM Conference on Computer and Communications Security, 2023
-
-== Teaching Experience
-- Teaching Assistant, Virginia Tech, CS-4824 Machine Learning, 2024
-- Teaching Assistant, Virginia Tech, CS-4804 Introduction to Artificial Intelligence, 2023
-
-== Education
-- Ph.D. in Computer Science, Virginia Tech, 2023 - Present (Advisor, Dr. Peng Gao)
-- M.S. in Chemistry from King Abdullah University of Science and Technology, 2021-2023
-- B.S. in Chemical Science from Southern University of Science and Technology, 2018-2022
