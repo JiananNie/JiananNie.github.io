@@ -17,18 +17,18 @@ I am a Ph.D. student in the Department of Computer Science at Virginia Tech, adv
 I got the M.S. degree in Chemistry from King Abdullah University of Science and Technology (KAUST) in 2022. I received the B.S. degree in Chemical Science from Southern University of Science and Technology (SUSTech).
 
 == Research
-My research interest lies in machine learning and AI for science.\n
-I develop AI/ML models informed by fundamental scientific principles to accelerate the design and discovery of novel materials and small molecules. 
-My work focuses on integrating physical laws such as symmetry, and theories, into AI architectures to enhance model interpretability, efficiency, and predictive accuracy.
-By bridging AI and the science, I aim to advance foundational AI methodologies that drive innovation in materials and molecules design and beyond.
+My research interest lies at the intersection of machine learning and AI for science.\n
+Specifically, I focus on leveraging machine learning to address fundamental challenges in materials science and chemistry. My work involves developing AI/ML models guided by fundamental scientific principles to enhance property prediction, accelerate the design and discovery of novel materials and small molecules.
+
 
 == Recent Publications
 -  [https://arxiv.org/pdf/2502.02748 ReGNet: Reciprocal Space-Aware Long-Range Modeling and
 Multi-Property Prediction for Crystals] \n
 *Jianan Nie*, Peiyao Xiao, Kaiyi Ji, Peng Gao. arXiv: 2502.02748
 
+
 == Internship Experience
-- Research Scientist at Microsoft Research AI for Science
+- Intern at Microsoft Research AI for Science – Scientific Foundation Model, 2024
 
 == Professional Services
 - Reviewer, AI4Mat-NeurIPS, 2024
