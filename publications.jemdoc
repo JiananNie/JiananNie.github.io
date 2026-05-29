@@ -4,9 +4,8 @@
 
 == 2026
 
--  [https://arxiv.org/pdf/2502.02748 ReciNet: Reciprocal Space-Aware Long-Range Modeling and
-Multi-Property Prediction for Crystals] \n
-*Jianan Nie*, Peiyao Xiao, Kaiyi Ji, Peng Gao. TMLR 2026
+-  [https://openreview.net/pdf?id=ODlxgod5e3 ReciNet: Reciprocal Space-Aware Long-Range Modeling for Crystalline Property Prediction] \n
+*Jianan Nie*, Peiyao Xiao, Kaiyi Ji, Peng Gao. Transactions on Machine Learning Research (TMLR) 2026
 
 -  [https://arxiv.org/pdf/2603.18397 FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra] \n
 *Jianan Nie*, Peng Gao. International Conference on Learning Representations (ICLR) 2026 FM4Science
